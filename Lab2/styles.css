@@ -1,0 +1,71 @@
+body {
+    font-family: Arial Black;
+    margin: 20px;
+    background-color: gray;
+    color: antiquewhite;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+h1 {
+    color: rgb(41, 39, 39);
+    font-size: 44px;
+    text-align: center;
+}
+
+/* Styles for the h2 elements */
+h2 {
+    color: rgb(84, 84, 119);
+    font-size: 20px;
+}
+
+.highlight {
+    color: yellow;
+}
+
+/* Styles for the paragraphs */
+p {
+    font-style: italic;
+}
+
+/* Styles for the unordered list */
+ul {
+    list-style-type: square;
+}
+
+.re {
+    color: red;
+}
+
+/* Styles for the images */
+.image-container {
+    display: flex;
+    justify-content: left;
+}
+dl {
+    margin: 0;
+    padding: 0;
+  }
+  
+  dt {
+    color: rgb(70, 70, 167);
+    font-weight: bold;
+  }
+  
+  dd {
+    color: rgb(166, 166, 40);
+  }
+  
+  dd a {
+    color: red;
+  }
+  
+  
+  
+  
+  
+  
+
+    
+
+    
